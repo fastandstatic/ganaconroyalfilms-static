@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-04-17T05:45:38+00:00</lastmod>
+		<lastmod>2025-04-29T21:14:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/CINEMAS-ROYAL.webp</image:loc>
 		</image:image>
@@ -37,19 +37,34 @@
 			<image:loc>/wp-content/uploads/2025/04/Mesa-de-trabajo-39-768x311.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DISC_DRIVE_PR_02_sRGB-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DISC_DRIVE_PR_02_sRGB-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DISC_DRIVE_PR_01_sRGB-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DIGITAL_EDITION_PR_01_sRGB-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DIGITAL_EDITION_PR_01_sRGB-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/PS5_VERTICAL_STAND_PR_01_sRGB-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/PS5_VERTICAL_STAND_PR_01_sRGB-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DISC_DRIVE_PR_01_sRGB-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_VERTICAL_STAND_PR_05_sRGB_WithNotice-e1744752236427-150x150.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_VERTICAL_STAND_PR_05_sRGB_WithNotice-e1744752236427-1024x836.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DISC_DRIVE_PR_02_sRGB-1024x683.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DIGITAL_EDITION_PR_01_sRGB-1024x683.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_VERTICAL_STAND_PR_01_sRGB-1024x683.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DISC_DRIVE_PR_01_sRGB-1024x683.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_VERTICAL_STAND_PR_05_sRGB_WithNotice-e1744752236427-1024x836.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/detalles2-12-12.png</image:loc>
@@ -386,6 +401,91 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/logo-cinema-royal-09.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/gana-con-royal-films/</loc>
+		<lastmod>2025-04-17T06:16:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/CINEMAS-ROYAL.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/LOGO2025.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Actualizado.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Silla-terror-actualizado.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/banner-del-terro-actualizado.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/INFORMATIVO-50-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Actualizado.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Silla-terror-actualizado.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/banner-del-terro-actualizado.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/INFORMATIVO-50-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Mesa-de-trabajo-39-768x311.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DISC_DRIVE_PR_02_sRGB-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DISC_DRIVE_PR_01_sRGB-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_DIGITAL_EDITION_PR_01_sRGB-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_VERTICAL_STAND_PR_01_sRGB-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/PS5_CFI2000_VERTICAL_STAND_PR_05_sRGB_WithNotice-e1744752236427-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/detalles2-12-12.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/icon-plus-07.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/LOGO2025.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
